@@ -6,6 +6,7 @@ WordPress es un sistema de gestión de contenido (CMS, por sus siglas en inglés
 
 ¡Explorando Nuestra Página de Ventas de Zapatillas!
 Hemos aprovechado la potencia de WordPress para crear una experiencia de compra única: una página dedicada a los amantes de las zapatillas.
+LINK: https://homiletical-zero.000webhostapp.com/ 
 
 ![image](https://github.com/bochita08/PaginaWordPress/assets/127541271/429213b7-a5b7-4f33-b269-35648fd6e2af)
 
